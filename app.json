@@ -1,0 +1,10 @@
+{
+  "name": "beego-heroku-hello-world",
+  "description": "HelloWorld built with Beego and running on Heroku",
+  "repository": "https://github.com/adamar/beego-heroku-hello-world",
+  "keywords": ["golang", "beego", "heroku"],
+  "success_url": "/",
+  "addons": [
+      "heroku-postgresql"
+  ]
+}

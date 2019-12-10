@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "KDUtjxO63r7L1aU9dT5KhQW4AdM=",
+			"path": "github.com/astaxie/beego",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "JvDySyr+rfWQ9sp+ciwxxWywea0=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "oa4Dm7Dsh7TtNRdmhoTxr08Xakg=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "iHY0XMPlj5EfCxMN4NEmvBgdhDM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "N5kHk4qbc10N2Lp9ltA2G76qNxs=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "OksAzF6VvpfTlte99lpVNV+iSnY=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "M/+EB+ZcyzY8JovWILhJ8gFCCOQ=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "UGYM5ci8rhhkur7NqejqItZRHBY=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
+			"revisionTime": "2018-11-30T13:54:26Z"
+		},
+		{
+			"checksumSHA1": "31Q46st1pd0VJJmD7yQFHKB8jrE=",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "f99c8df09eb5bff426315721bfa5f16a99cad32c",
+			"revisionTime": "2019-04-11T19:51:25Z"
+		},
+		{
+			"checksumSHA1": "l7TB2niSgScZLRYd9knWNTB6yyc=",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "f99c8df09eb5bff426315721bfa5f16a99cad32c",
+			"revisionTime": "2019-04-11T19:51:25Z"
+		},
+		{
+			"checksumSHA1": "vL6l4FZWitsxht0uqA/GpDNkNNc=",
+			"path": "golang.org/x/net/idna",
+			"revision": "1492cefac77f61bc789c00f41ead8f8d7307cd21",
+			"revisionTime": "2019-06-06T17:29:09Z"
+		},
+		{
+			"checksumSHA1": "CbpjEkkOeh0fdM/V8xKDdI0AA88=",
+			"path": "golang.org/x/text/secure/bidirule",
+			"revision": "342b2e1fbaa52c93f31447ad2c6abc048c63e475",
+			"revisionTime": "2018-12-15T17:52:45Z"
+		},
+		{
+			"checksumSHA1": "R9iBDY+aPnT+8pyRcqGjXq5QixA=",
+			"path": "golang.org/x/text/transform",
+			"revision": "342b2e1fbaa52c93f31447ad2c6abc048c63e475",
+			"revisionTime": "2018-12-15T17:52:45Z"
+		},
+		{
+			"checksumSHA1": "vv9EDuekZgHxFbh+0jJhB7jLZXY=",
+			"path": "golang.org/x/text/unicode/bidi",
+			"revision": "342b2e1fbaa52c93f31447ad2c6abc048c63e475",
+			"revisionTime": "2018-12-15T17:52:45Z"
+		},
+		{
+			"checksumSHA1": "8fzd6fnxrstdNSVg+Srhf1nKgek=",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "342b2e1fbaa52c93f31447ad2c6abc048c63e475",
+			"revisionTime": "2018-12-15T17:52:45Z"
+		},
+		{
+			"checksumSHA1": "QqDq2x8XOU7IoOR98Cx1eiV5QY8=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "github.com/adamar/beego-heroku-hello-world"
+}
