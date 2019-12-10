@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "./routers"
+	_ "github.com/hymen81/JpInputToChineseConverterGo/routers"
 	"github.com/astaxie/beego"
 	"os"
 	"strconv"

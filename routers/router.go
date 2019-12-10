@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"../controllers"
+	"github.com/hymen81/JpInputToChineseConverterGo/controllers"
 	"github.com/astaxie/beego"
 )
 
