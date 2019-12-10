@@ -1,1 +1,1 @@
-web: beego-heroku-hello-world
+web: JpInputToChineseConverterGo
