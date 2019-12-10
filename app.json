@@ -1,5 +1,5 @@
 {
-  "name": "beego-heroku-hello-world",
+  "name": "JpInputToChineseConverterGo",
   "description": "HelloWorld built with Beego and running on Heroku",
   "repository": "https://github.com/hymen81/JpInputToChineseConverterGo",
   "keywords": ["golang", "beego", "heroku"],
