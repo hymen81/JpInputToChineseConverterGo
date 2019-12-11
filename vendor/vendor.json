@@ -9,6 +9,12 @@
 			"revisionTime": "2019-12-09T20:00:45Z"
 		},
 		{
+			"checksumSHA1": "5+cxNn3sDME26yhsgvaPruo66gw=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "903109d295d56a99095f2cfab0c2ca8d4b22f648",
+			"revisionTime": "2019-11-15T16:53:31Z"
+		},
+		{
 			"checksumSHA1": "KDUtjxO63r7L1aU9dT5KhQW4AdM=",
 			"path": "github.com/astaxie/beego",
 			"revision": "1b6edafc96ad27b6515fafeccd7339dda3e997b1",
@@ -73,6 +79,18 @@
 			"path": "golang.org/x/crypto/acme/autocert",
 			"revision": "f99c8df09eb5bff426315721bfa5f16a99cad32c",
 			"revisionTime": "2019-04-11T19:51:25Z"
+		},
+		{
+			"checksumSHA1": "RG0b0QOyXaUWxrXvYZPy52sLYwE=",
+			"path": "golang.org/x/net/html",
+			"revision": "c0dbc17a35534bf2e581d7a942408dc936316da4",
+			"revisionTime": "2019-11-08T21:16:37Z"
+		},
+		{
+			"checksumSHA1": "xwhqe/igHQrY3IhqDwzo6j7qpm8=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "c0dbc17a35534bf2e581d7a942408dc936316da4",
+			"revisionTime": "2019-11-08T21:16:37Z"
 		},
 		{
 			"checksumSHA1": "vL6l4FZWitsxht0uqA/GpDNkNNc=",
